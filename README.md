@@ -39,6 +39,7 @@
   * [DevOps](#devops)
   
 * **[Мероприятия](#мероприятия)**
+* **[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)**
 * **[Контрибьюторы](#контрибьюторы)**
 
 ## **Блоги**
@@ -55,7 +56,7 @@
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
-|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Денис Старков [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/starkovden)|
+|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Денис Старков [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/denis-starkov-b99b1489/)|
 
 ### **Блоги Общее**
 
@@ -1188,6 +1189,20 @@
 |[![Yandex](img/favicons/events.yandex.ru.png)](https://events.yandex.ru/)<br>[Yandex](https://events.yandex.ru/)|Мероприятия Яндекса.|Россия и страны бывшего СНГ|[Twitter](https://twitter.com/YaDevelopers) [VK](https://vk.com/yandex4developers) [Facebook](https://www.facebook.com/Yandex4Developers) [YouTube](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ) [Telegram](https://t.me/Yandex4Developers)|
 |[![Альфа-банк](img/favicons/hr.alfabank.ru.png)](https://hr.alfabank.ru/events)<br>[Альфа-банк](https://hr.alfabank.ru/events)|IT-события, проводимые Альфа-банком.|Москва, Санкт-Петербург, Екатеринбург|[Twitter](https://twitter.com/alfabank) [VK](https://vk.com/alfabank) [Facebook](https://facebook.com/alfabank)|
 |[![Райффайзен DGTL](img/favicons/dgtl.raiffeisen.ru.png)](https://dgtl.raiffeisen.ru/event)<br>[Райффайзен DGTL](https://dgtl.raiffeisen.ru/event)|Райффайзен DGTL — это сообщество экспертов, работающих над цифровыми решениями банка. На этом портале мы рассказываем все о наших командах и технологиях, анонсируем мероприятия и делимся актуальными вакансиями. Нас уже выбрали лучшие профессионалы индустрии, и мы ждем, когда присоединишься ты!|Москва|[Facebook](https://www.facebook.com/raiffeisenbankrus) [VK](https://vk.com/raiffeisencareer)|
+
+---
+
+## Информация для авторов ресурсов
+
+Представленные в репозитории ссылки на социальные ресурсы авторов собраны из открытых источников (в том числе с самих ресурсов, где автор выкладывает контент; из поисковых запросов по никнейму автора; из блогов и открытых страниц социальных сетей).
+
+Эти ссылки были предоставлены с целью аккумуляции открытых источников связи с авторами, чтобы читатель/слушатель при желании мог использовать наиболее подходящий ему способ связи с автором.
+
+Я понимаю, что не все авторы хотели бы, чтобы ссылки на их соц. сети были доступны в одном месте, так как это может спровоцировать спам в адрес автора (по вопросам, не относящимся к размещаемому ресурсу с контентом), и готов убрать (или изменить) указанные контакты по первому запросу автора.
+
+Тем не менее, с юридической точки зрения, указанные контакты нельзя отнести к персональным данным, и собраны они были лишь для удобства потребителей контента. Их размещение не несёт какого-либо злого умысла.
+
+Спасибо за понимание.
 
 ---
 
