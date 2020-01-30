@@ -56,7 +56,7 @@
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
-|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Денис Старков [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/denis-starkov-b99b1489/)|
+|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: Денис Старков [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/denis-starkov-b99b1489/)|
 
 ### **Блоги Общее**
 
